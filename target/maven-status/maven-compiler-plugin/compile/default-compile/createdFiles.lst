@@ -1,0 +1,3 @@
+com\example\accessingdatamongodb\CustomerRepository.class
+com\example\accessingdatamongodb\AccessingDataMongodbApplication.class
+com\example\accessingdatamongodb\Customer.class
